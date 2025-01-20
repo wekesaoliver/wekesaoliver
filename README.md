@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oliver Wekesa</h1>
-<h3 align="center">Full Stack software developer</h3>
+<h1 align="center">Hello 👋, I'm Oliver Wekesa</h1>
+<h3 align="center">Full Stack Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 ---
@@ -53,6 +53,9 @@ I work with a wide variety of programming languages and tools. Here's a snapshot
 Here's a quick overview of my contributions and activity on GitHub:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wekesaoliver&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+
+<a href="http://www.github.com/wekesaoliver"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wekesaoliver&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ---
 

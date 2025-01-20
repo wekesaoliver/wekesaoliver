@@ -55,7 +55,9 @@ Here's a quick overview of my contributions and activity on GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wekesaoliver&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 
-<a href="http://www.github.com/wekesaoliver"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wekesaoliver&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wekesaoliver&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+
+
 
 ---
 
@@ -63,7 +65,7 @@ Here's a quick overview of my contributions and activity on GitHub:
 
 I’m always coding! Here’s my current GitHub streak:
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=wekesaoliver&theme=radical)
+![Snake animation](https://github.com/wekesaoliver/wekesaoliver/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

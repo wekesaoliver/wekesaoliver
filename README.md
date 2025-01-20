@@ -52,7 +52,7 @@ I work with a wide variety of programming languages and tools. Here's a snapshot
 
 Here's a quick overview of my contributions and activity on GitHub:
 <br>
-<a href="http://www.github.com/wekesaoliver"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wekesaoliver&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/wekesaoliver"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wekesaoliver&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wekesaoliver&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 

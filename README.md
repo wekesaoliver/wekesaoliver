@@ -15,7 +15,7 @@
 
 Here are the languages I use the most:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jethcherry&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wekesaoliver&layout=compact)
 
 ---
 
@@ -52,7 +52,7 @@ I work with a wide variety of programming languages and tools. Here's a snapshot
 
 Here's a quick overview of my contributions and activity on GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jethcherry&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wekesaoliver&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
@@ -60,7 +60,7 @@ Here's a quick overview of my contributions and activity on GitHub:
 
 I’m always coding! Here’s my current GitHub streak:
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=jethcherry&theme=radical)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=wekesaoliver&theme=radical)
 
 ---
 
@@ -88,7 +88,7 @@ I’m always open to collaboration, suggestions, or just a good chat! You can re
 
 ## 💡 **Fun Facts** 🌟
 
-- I’ve completed a **B. Sc. (Mathematics & CS, Specialization in Pure Mathematics)**🎓 .
+- I’ve completed B. Sc. (Mathematics & CS, Specialization in Pure Mathematics)🎓 .
 - I'm a **huge fan** of open-source projects and love contributing to them 💙.
 - My favorite hobby? **Coding while listening to music** 🎶.
 - Seeing people who worked on a dark screen with coloured text seemed like magic to me. **Now I perform that magic**.

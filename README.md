@@ -60,7 +60,6 @@ Here's a quick overview of my contributions and activity on GitHub:
 
 ## 🔥 **My GitHub Streak** 🔥
 <!-- I’m always coding! Here’s my current GitHub streak: -->
-<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wekesaoliver&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 ![Snake animation](https://github.com/wekesaoliver/wekesaoliver/blob/output/github-contribution-grid-snake.svg)

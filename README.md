@@ -5,7 +5,7 @@
 ---
 🌱 I’m currently learning **Java, CyberSecurity, C++**
 
-- 👨‍💻 All of my projects are available at [my-portfolio-oliver-wekesa](https://wekesaoliver.github.io/personal-portfolio-website-Safaricom_Hook_Cohort_1_Peer_to_peer_Learning._Group_4/)
+- 👨‍💻 All of my projects are available at [my-portfolio-oliver-wekesa](https://wekesaoliver.github.io/personal-portfolio-website/)
 
 - 💬 Ask me about **React, Javascript, Python, SQL, NodeJs and Flask**
 

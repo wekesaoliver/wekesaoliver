@@ -375,8 +375,8 @@
 <br/><br/><br/>
 <img align="left" height="450px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=wekesaoliver&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=pie" />
 <div align="right">
-  <img width="490px" src="https://github-readme-stats.vercel.app/api?username=wekesaoliver&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width="490px" src="https://github-readme-streak-stats.herokuapp.com/?user=wekesaoliver&theme=tokyonight&hide_border=true" />
+  <img width="485px" src="https://github-readme-stats.vercel.app/api?username=wekesaoliver&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="485px" src="https://github-readme-streak-stats.herokuapp.com/?user=wekesaoliver&theme=tokyonight&hide_border=true" />
 </div>
 <br/>
 

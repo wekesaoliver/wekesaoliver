@@ -1,7 +1,7 @@
 ![MasterHead](https://aspireinfolabs.com/static/media/blog_cover_7.b10ac410.jpeg)
 <br/><br/>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0000FF&vCenter=true&width=600&lines=Hi+there%2C+I+am+Oliver+%F0%9F%91%8B;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+Developer;Software+Engineer;Problem+Solver;Freelancer;Open+Source+Enthusiast" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I am+Oliver+%F0%9F%91%8B;👨‍💻+++Full-Stack+Developer;Software+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
 </div>
 
 <hr/>
@@ -373,12 +373,10 @@
 <img align="center" src="./components/titles/en/activity.png" width="100%" alt="Activity Section Title" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wekesaoliver&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
 <br/><br/><br/>
+<img align="left" height="473px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=wekesaoliver&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=pie" />
 <div align="right">
-<img  height="445px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=wekesaoliver&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=pie" />
-</div>
-<div align="left">
-  <img width="485px" src="https://github-readme-stats.vercel.app/api?username=wekesaoliver&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width="485px" src="https://github-readme-streak-stats.herokuapp.com/?user=wekesaoliver&theme=tokyonight&hide_border=true" />
+  <img width="505px" src="https://luk4x-github-readme-stats.vercel.app/api?username=wekesaoliver&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" />
+  <img width="505px" src="https://streak-stats.demolab.com/?user=wekesaoliver&theme=tokyonight&hide_border=true" />
 </div>
 <br/>
 

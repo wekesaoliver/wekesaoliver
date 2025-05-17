@@ -14,9 +14,9 @@
 <p align="left"> <a href="https://twitter.com/wekesaoliver1" target="blank"><img src="https://img.shields.io/twitter/follow/wekesaoliver?logo=twitter&style=for-the-badge" alt="wekesaoliver" /></a> </p>
 
 <ul>
-  <li>🔭 I’m currently building a [**E-commerce Project**](https://github.com/wekesaoliver/TimelyCare)</li>
-  <li>🌱 I’m currently learning **React Native**</li>
-  <li>💬 Ask me about **React , nodejs or javascript**</li>
+  <li>🔭 I’m currently working on Zuriki E-commerce Project</li>
+  <li>🌱 I’m currently learning React Native</li>
+  <li>💬 Ask me about **React , nodejs or javascript</li>
   <li>📚 <b>🎓 I’ve completed B. Sc. (Mathematics & CS, Specialization in Pure Mathematics).</li>
   <li>
     <details>
@@ -371,12 +371,12 @@
 <hr/>
 
 <img align="center" src="./components/titles/en/activity.png" width="100%" alt="Activity Section Title" />
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=YassineManai&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wekesaoliver&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
 <br/><br/><br/>
-<img align="left" height="473px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=YassineManai&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=pie" />
+<img align="left" height="473px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=wekesaoliver&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=pie" />
 <div align="right">
-  <img width="505px" src="https://luk4x-github-readme-stats.vercel.app/api?username=YassineManai&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" />
-  <img width="505px" src="https://streak-stats.demolab.com/?user=YassineManai&theme=tokyonight&hide_border=true" />
+  <img width="505px" src="https://luk4x-github-readme-stats.vercel.app/api?username=wekesaoliver&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" />
+  <img width="505px" src="https://streak-stats.demolab.com/?user=wekesaoliver&theme=tokyonight&hide_border=true" />
 </div>
 <br/>
 

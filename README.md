@@ -1,101 +1,386 @@
-<h1 align="center">Hello 👋, I'm Oliver Wekesa</h1>
-<h3 align="center">Full Stack Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+![MasterHead](https://aspireinfolabs.com/static/media/blog_cover_7.b10ac410.jpeg)
+<br/><br/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I am+Oliver+%F0%9F%91%8B;👨‍💻+++Full-Stack+Developer;Software+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+</div>
 
----
-🌱 I’m currently learning **Java, CyberSecurity, C++**
+<hr/>
 
-- 👨‍💻 All of my projects are available at [my-portfolio-oliver-wekesa](https://wekesaoliver.github.io/personal-portfolio-website/)
+<img align="center" src="./components/titles/en/about.png" width="100%" alt="About Me Section Title" />
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" border="2" width="380px" height="340px" alt="Boy sitting in front of a monitor in a dark room" />
 
-- 💬 Ask me about **React, Javascript, Python, SQL, NodeJs and Flask**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wekesaoliver&label=Profile%20views&color=0e75b6&style=flat" alt="wekesaoliver" /> </p>
 
-- 📫 How to reach me **oliverwekesa361@gmail.com**
+<p align="left"> <a href="https://twitter.com/wekesaoliver1" target="blank"><img src="https://img.shields.io/twitter/follow/wekesaoliver?logo=twitter&style=for-the-badge" alt="wekesaoliver" /></a> </p>
 
-## 🌍 **Top Languages I've Used** 🗣️
+<ul>
+  <li>🔭 I’m currently building a [**E-commerce Project**](https://github.com/wekesaoliver/TimelyCare)</li>
+  <li>🌱 I’m currently learning **React Native**</li>
+  <li>💬 Ask me about **React , nodejs or javascript**</li>
+  <li>📚 <b>🎓 I’ve completed B. Sc. (Mathematics & CS, Specialization in Pure Mathematics).</li>
+  <li>
+    <details>
+      <summary>💡 Fun Facts 🌟:</summary>
+      <ul>
+        <li>🤖 My daily life runs smoother thanks to a touch of JavaScript magic.</li>
+        <li>⛩️ when the future becomes the past the present will be unlocked</li>
+        <li>✒️ I code in black and white — literally. My VSCode is pure monochrome aesthetic.</li>
+        <li>Seeing people who worked on a dark screen with coloured text seemed like magic to me. Now I perform that magic.</li>
+      </ul>
+    </details>
+  </li>
+</ul>
+<hr/>
 
-Here are the languages I use the most:
+<img align="center" src="./components/titles/en/stack.png" width="100%" alt="My Stack Section Title" />
+</br></br>
+<img align="left" width="251px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wekesaoliver&layout=compact)
+<table align="right" height="251px">
+  <tr>
+    <td align="center">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
+        <sub>
+          <b>
+            <pre>React.js</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nextjs.org/">
+        <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular"/><br/>
+        <sub>
+          <b>
+            <pre>Angular</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
+        <sub>
+          <b>
+            <pre>Typescript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tailwindcss.com/">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br/>
+      <sub>
+        <b>
+          <pre>Tailwind<br/>CSS</pre>
+        </b>
+      </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/">
+        <img src="https://skillicons.dev/icons?i=github" width="65px" alt="Github icon"/><br/>
+        <sub>
+          <b>
+            <pre>Gitflow</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <a href="https://firebase.google.com/">
+        <img src="https://skillicons.dev/icons?i=firebase" width="65px" alt="Firebase icon"/><br/>
+        <sub>
+          <b>
+            <pre>Firebase</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://graphql.org/">
+        <img src="https://skillicons.dev/icons?i=graphql" width="65px" alt="GraphQL icon"/><br/>
+        <sub>
+          <b>
+            <pre>GraphQL</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://getbootstrap.com/">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
+      <sub>
+        <b>
+          <pre>Bootstrap</pre>
+        </b>
+      </sub>
+      </a>
+    </td>
+       <td align="center">
+          <a href="https://getbootstrap.com/">
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java"/><br/>
+        <sub>
+          <b>
+            <pre>java</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+       <td align="center">
+      <a href="https://getbootstrap.com/">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="65px" alt="Android Studio"/><br/>
+        <sub>
+          <b>
+            <pre>Android Studio</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://sass-lang.com/">
+        <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
+        <sub>
+          <b>
+            <pre>Sass</pre>
+          </b>
+       </a>
+      </sub>
+    </td>
+    <td align="center">
+     <a href="https://getbootstrap.com/">
+      <img src="https://skillicons.dev/icons?i=php" width="65px" alt="PHP"/><br/>
+      <sub>
+        <b>
+          <pre>PHP</pre>
+        </b>
+      </sub>
+      </a>
+    </td>
+    <td align="center">
+       <a href="https://getbootstrap.com/">
+      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python"/><br/>
+        <sub>
+          <b>
+            <pre>Python</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+          <td align="center">
+      <a href="https://stripe.com/en-br/">
+        <img src="https://github.com/Luk4x/Luk4x/assets/86276393/368e62fc-6dfd-4f28-a325-ddc8d3dad403" width="65px" alt="Stripe icon"/><br/>
+        <sub>
+          <b>
+            <pre>Stripe</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://redux.js.org/">
+        <img src="https://skillicons.dev/icons?i=redux" width="65px" alt="Redux icon"/><br/>
+        <sub>
+          <b>
+            <pre>Redux<br/>Toolkit</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
 
----
+  <tr>
+      <td align="center">
+      <a href="https://expressjs.com/">
+        <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js icon"/><br/>
+        <sub>
+          <b>
+            <pre>Express.js</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://reactnative.dev/">
+        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
+        <sub>
+          <b>
+            <pre>React<br>Native</pre>
+          </b>
+        </sub>
+     </a>
+    </td>
+    <td align="center">
+       <a href="https://getbootstrap.com/">
+      <img src="https://skillicons.dev/icons?i=c#" width="65px" alt="C#"/><br/>
+        <sub>
+          <b>
+            <pre>C#</pre>
+          </b>
+        </sub>
+     </a>
+    </td>
+    <td align="center">
+      <a href="https://getbootstrap.com/">
+      <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="Docker"/><br/>
+      <sub>
+        <b>
+          <pre>Docker</pre>
+        </b>
+      </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org/en">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br/>
+        <sub>
+          <b>
+            <pre>Node.js</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+     <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
+        <sub>
+          <b>
+            <pre>Javascript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MongoDb"/><br/>
+        <sub>
+          <b>
+            <pre>MongoDB</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL"/><br/>
+        <sub>
+          <b>
+            <pre>MySQL</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="65px" alt=".NET"/><br/>
+        <sub>
+          <b>
+            <pre>.NET</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
+        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
+        <sub>
+          <b>
+            <pre>CSS3</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+   <tr>
+     <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
+        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
+        <sub>
+          <b>
+            <pre>HTML5</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://ohmyz.sh/">
+        <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br/>
+        <sub>
+          <b>
+            <pre>Terminal</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br/>
+        <sub>
+          <b>
+            <pre>VSCode</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pop.system76.com/">
+        <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="Linux icon"/><br/>
+        <sub>
+          <b>
+            <pre>Linux &<br>Windows</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://skillicons.dev/icons?i=blender" width="65px" alt="Blender"/><br/>
+        <sub>
+          <b>
+            <pre>Blender</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+   </tr>
+</table>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<hr/>
 
-## 🛠️ **My Tech Stack & Tools** 💻
-
-I work with a wide variety of programming languages and tools. Here's a snapshot of what I use:
-
-### **Languages**:
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
-![PHP](https://img.shields.io/badge/-PHP-4F5B93?logo=php&logoColor=fff)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=fff)
-
-### **Frameworks & Libraries**:
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=fff)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=fff)
-![Laravel](https://img.shields.io/badge/Laravel-F4534E?logo=laravel&logoColor=fff)
-
-### **Databases**:
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)
-![MSSQL](https://img.shields.io/badge/-MSSQL-003B57?logo=microsoft-sql-server&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
-
----
-## 📈 **My GitHub Stats** 🌟
-
-Here's a quick overview of my contributions and activity on GitHub:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wekesaoliver&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-
-
----
-
-## 🔥 **My GitHub Streak** 🔥
-I’m always coding! Here’s my current GitHub streak:
-![](https://github-readme-streak-stats.herokuapp.com/?user=wekesaoliver&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
-
-![Snake animation](https://github.com/wekesaoliver/wekesaoliver/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 💬 **How to Reach Me** 📬
-
-I’m always open to collaboration, suggestions, or just a good chat! You can reach me here:
-
-<p align="left">
-<a href="https://dev.to/wekesaoliver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="owekesa" height="30" width="40" /></a>
+<img align="center" src="./components/titles/en/contact.png" width="100%" alt="Contact Section Title" />
+<br/><br/>
+<img align="right" width="170px" src="https://cdn.dribbble.com/users/6501075/screenshots/19994346/media/1ac3a7f59b24698b9c32f1025074abd1.gif" alt="Girl working with programming"/>
+<br/><br/><br/>
+<p align="center">
+  <a href="https://dev.to/wekesaoliver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="owekesa" height="30" width="40" /></a>
 <a href="https://x.com/wekesaoliver1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="owekesa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/owekesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owekesa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wekesaoliver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owekesa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29286960/oliver-wekesa?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="owekesa" height="30" width="40" /></a>
 <a href="https://www.instagram.com/wekesaoliver1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="owekesa" height="30" width="40" /></a>
 <a href="https://hashnode.com/@wekesaoliver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="owekesa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/oliverwekesa361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="owekesa" height="30" width="40" /></a>
 </p>
+<br/><br/>
+<hr/>
 
----
+<img align="center" src="./components/titles/en/activity.png" width="100%" alt="Activity Section Title" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=YassineManai&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
+<br/><br/><br/>
+<img align="left" height="473px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=YassineManai&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Top%20Languages&cache_seconds=14400&layout=pie" />
+<div align="right">
+  <img width="505px" src="https://luk4x-github-readme-stats.vercel.app/api?username=YassineManai&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Github%20Stats&cache_seconds=14400&hide=contribs&show=discussions_answered,prs_merged,prs_merged_percentage" />
+  <img width="505px" src="https://streak-stats.demolab.com/?user=YassineManai&theme=tokyonight&hide_border=true" />
+</div>
+<br/>
 
-## 🎯 **Currently Working On** ⚡️
-
-- **Laravel** through hands-on projects.
-
----
-
-## 💡 **Fun Facts** 🌟
-
-- I’ve completed B. Sc. (Mathematics & CS, Specialization in Pure Mathematics)🎓 .
-- I'm a **huge fan** of open-source projects and love contributing to them 💙.
-- My favorite hobby? **Coding while listening to music** 🎶.
-- Seeing people who worked on a dark screen with coloured text seemed like magic to me. **Now I perform that magic**.
-
----
+<hr>
 
 ## ✨ **I enjoy** 💫
 - F1

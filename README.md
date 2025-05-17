@@ -373,8 +373,8 @@
 <img align="center" src="./components/titles/en/activity.png" width="100%" alt="Activity Section Title" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wekesaoliver&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Contribution%20Graph" />
 <br/><br/><br/>
-<img align="left" height="445px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wekesaoliver&layout=pie" />
-<div align="right">
+<img align="right" height="445px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wekesaoliver&layout=pie" />
+<div align="left">
   <img width="485px" src="https://github-readme-stats.vercel.app/api?username=wekesaoliver&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img width="485px" src="https://github-readme-streak-stats.herokuapp.com/?user=wekesaoliver&theme=tokyonight&hide_border=true" />
 </div>
